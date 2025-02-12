@@ -1,0 +1,28 @@
+.header {
+    background-color: bisque;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    
+}
+
+p {
+    font-size: 24px;
+    font-kerning: auto;
+    background-color: beige;
+}
+
+ol {
+    font-style: italic;
+    font-size: 18px;
+}
+
+ul {
+    font-style: bold;
+    font-size: 18px;
+}
